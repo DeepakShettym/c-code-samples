@@ -23,6 +23,8 @@ gcc -o myapp main.o utils.o
 Add C program to demonstrate macro-based condition
 
 - Uses MYDEBUG macro to show different output based on definition
+
 - Shows how to define macro via gcc -D flag
+
 - Useful for learning conditional compilation and build-time configuration
 
